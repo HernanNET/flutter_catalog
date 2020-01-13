@@ -9,7 +9,7 @@ class BasicAppbarExample extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Colors.redAccent,
         leading: Icon(Icons.tag_faces),
-        title: Text("Sample title"),
+        title: Text("Angular Storm App),
         // TODO: add actions when items are clicked.
         actions: <Widget>[
           IconButton(
